@@ -1,7 +1,7 @@
 iOSDevelopmentTest
 ==================
 ##Overview:
-You are to write a program that simulates a fetal monitor. The program should display a list of patients and present a simulated fetal monitor when a patient is selected. The fetal monitor is a display graph of the babies heart rate and below that a graph of the mothers heart rate (see ‘image 1’).
+You are to write a program that simulates a fetal monitor. The program should display a list of patients and present a simulated fetal monitor when a patient is selected. The fetal monitor is a display graph of the babies heart rate and below that a graph of the mothers heart rate (see ‘AirStripIOSTestImage1.gif’).
 
 When a pregnant woman in labor goes to the hospital she will be setup on a bed where instruments will be connected to her to monitor the progress of labor and delivery. One instrument (usually a finger pulse oximeter) measures the mothers heart rate and oxygen levels. Another instrument (usually an external fetal heart rate monitor) measures the heart rate of the undelivered baby. The measurements are both printed on paper and displayed on a screen in real time.
 
